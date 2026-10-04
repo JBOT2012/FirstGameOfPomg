@@ -57,7 +57,7 @@ body {
 }
 
 canvas {
-  width: min(90vw, 960px);
+  width: min(90vw, 1440px);
   height: auto;
   display: block;
   background: #000000;
